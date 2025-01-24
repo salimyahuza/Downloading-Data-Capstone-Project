@@ -1,9 +1,9 @@
 # Downloading-Data-Capstone-Project
 This Project focused on downloading, processing, and visualizing COVID-19 data
 
-# COVID-19 Data Analysis and Visualization
+## COVID-19 Data Analysis and Visualization
 
-# Overview
+## Overview
 This project analyzes and visualizes COVID-19 data using Python. It involves downloading the latest confirmed case data from the Johns Hopkins University repository, processing the data, and generating insightful visualizations. The goal is to understand trends and provide a clear picture of the pandemic's impact globally and across specific countries.
 
 # Features
