@@ -24,8 +24,11 @@ Summarizes the total confirmed cases for all countries.
 This project is built using the following Python libraries:
 
 Pandas: For data manipulation and analysis.
+
 Matplotlib: For creating visualizations.
+
 Seaborn: For enhanced data visualizations.
+
 Requests: For downloading the dataset.
 
 ### Dataset Source
